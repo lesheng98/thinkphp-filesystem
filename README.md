@@ -22,7 +22,7 @@
 第一步：
 
 ```shell
-$ composer require lesheng98/think-filesystem
+$ composer require lesheng98/thinkphp-filesystem
 ```
 
 第二步： 在config/filesystem.php中添加配置
@@ -122,7 +122,7 @@ $ composer require lesheng98/think-filesystem
 ```
 
 第三步： 开始使用。 请参考thinkphp文档
-文档地址：[https://www.kancloud.cn/manual/thinkphp6_0/1037639 ](https://www.kancloud.cn/manual/thinkphp6_0/1037639 )
+文档地址：[https://doc.thinkphp.cn/](https://doc.thinkphp.cn/)
 
 ### demo
 
@@ -331,3 +331,7 @@ MIT
 
 1. thinkphp
 2. league/flysystem
+3. overtrue/flysystem-qiniu
+4. overtrue/flysystem-cos
+5. yzh52521/flysystem-oss
+6. yzh52521/flysystem-obs
